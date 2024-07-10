@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Sample backend for AWS Lambda",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
